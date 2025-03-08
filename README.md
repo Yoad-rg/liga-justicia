@@ -7,4 +7,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
-Este mensaje fue editado completamente desde GitHub!!!
+Este mensaje fue editado completamente desde GitHub
+
+### Hola mundo
